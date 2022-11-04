@@ -1,9 +1,9 @@
-#bicikli img{
-    width: 100px;
+#bicikli img {
+    width: 200px;
     height: auto;
 }
 
-h1{
+h1 {
    font-family:'courier new', monospace, 'arial';
    font:50px; 
 }
