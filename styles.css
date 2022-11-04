@@ -1,4 +1,9 @@
 #bicikli img{
-    width:100px;
+    width: 100px;
     height: auto;
+}
+
+h1{
+   font-family:'courier new';
+   font:50px; 
 }
